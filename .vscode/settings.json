@@ -1,0 +1,11 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.fixAll.eslint": "always"
+    },
+    "eslint.validate": [
+        "typescript",
+        "javascript"
+    ],
+    "editor.formatOnSave": false
+}
